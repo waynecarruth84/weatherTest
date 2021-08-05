@@ -1,0 +1,34 @@
+[05-Aug-2021 18:36:19 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\Users\Wayne The Goat\PhpstormProjects\weatherTest\public\weather.php:44
+Stack trace:
+#0 C:\Users\Wayne The Goat\PhpstormProjects\weatherTest\public\index.php(22): include()
+#1 {main}
+  thrown in C:\Users\Wayne The Goat\PhpstormProjects\weatherTest\public\weather.php on line 44
+[05-Aug-2021 18:36:20 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\Users\Wayne The Goat\PhpstormProjects\weatherTest\public\weather.php:44
+Stack trace:
+#0 C:\Users\Wayne The Goat\PhpstormProjects\weatherTest\public\index.php(22): include()
+#1 {main}
+  thrown in C:\Users\Wayne The Goat\PhpstormProjects\weatherTest\public\weather.php on line 44
+[05-Aug-2021 18:36:20 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\Users\Wayne The Goat\PhpstormProjects\weatherTest\public\weather.php:44
+Stack trace:
+#0 C:\Users\Wayne The Goat\PhpstormProjects\weatherTest\public\index.php(22): include()
+#1 {main}
+  thrown in C:\Users\Wayne The Goat\PhpstormProjects\weatherTest\public\weather.php on line 44
+[05-Aug-2021 18:36:20 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\Users\Wayne The Goat\PhpstormProjects\weatherTest\public\weather.php:44
+Stack trace:
+#0 C:\Users\Wayne The Goat\PhpstormProjects\weatherTest\public\index.php(22): include()
+#1 {main}
+  thrown in C:\Users\Wayne The Goat\PhpstormProjects\weatherTest\public\weather.php on line 44
+[05-Aug-2021 18:36:23 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\Users\Wayne The Goat\PhpstormProjects\weatherTest\public\weather.php:44
+Stack trace:
+#0 C:\Users\Wayne The Goat\PhpstormProjects\weatherTest\public\index.php(22): include()
+#1 {main}
+  thrown in C:\Users\Wayne The Goat\PhpstormProjects\weatherTest\public\weather.php on line 44
+[05-Aug-2021 18:37:09 UTC] PHP Warning:  Array to string conversion in C:\Users\Wayne The Goat\PhpstormProjects\weatherTest\public\weather.php on line 44
+[05-Aug-2021 18:37:12 UTC] PHP Warning:  Array to string conversion in C:\Users\Wayne The Goat\PhpstormProjects\weatherTest\public\weather.php on line 44
+[05-Aug-2021 18:40:02 UTC] PHP Warning:  Array to string conversion in C:\Users\Wayne The Goat\PhpstormProjects\weatherTest\public\weather.php on line 44
+[05-Aug-2021 18:40:02 UTC] PHP Warning:  Array to string conversion in C:\Users\Wayne The Goat\PhpstormProjects\weatherTest\public\weather.php on line 44
+[05-Aug-2021 18:40:02 UTC] PHP Warning:  Array to string conversion in C:\Users\Wayne The Goat\PhpstormProjects\weatherTest\public\weather.php on line 44
+[05-Aug-2021 18:40:02 UTC] PHP Warning:  Array to string conversion in C:\Users\Wayne The Goat\PhpstormProjects\weatherTest\public\weather.php on line 44
+[05-Aug-2021 18:40:06 UTC] PHP Warning:  Array to string conversion in C:\Users\Wayne The Goat\PhpstormProjects\weatherTest\public\weather.php on line 44
+[05-Aug-2021 18:47:44 UTC] PHP Warning:  Array to string conversion in C:\Users\Wayne The Goat\PhpstormProjects\weatherTest\public\weather.php on line 45
+[05-Aug-2021 18:47:53 UTC] PHP Warning:  Array to string conversion in C:\Users\Wayne The Goat\PhpstormProjects\weatherTest\public\weather.php on line 45
